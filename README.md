@@ -1,8 +1,9 @@
 ## 게시판 시스템
 본 프로젝트는 개인 포트폴리오를 목적으로 만들어진 (React-notice-board) 입니다.
 
-깃 허브 시작.
-두번 째 커밋.
+21.01.27
+고객관리 Table에 material-ui 적용
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
